@@ -1,3 +1,17 @@
+# Weather App
+## Used technologies:
+### -React JS
+### -Redux
+### -Scss
+
+## This app was created for showing the current weather in defferent countries. Let's check it out!
+
+![alt text](/src/img/app.png)
+***
+![alt text](/src/img/app2.png)
+***
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
